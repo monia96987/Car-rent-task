@@ -1,0 +1,28 @@
+{
+    "requests": {
+        "searchForCarRequest": {
+            "alias": "searchForCarRequest",
+            "method": "GET",
+            "url": "http://qalab.pl.tivixlabs.com/?country=*",
+            "expectedStatusCode": 200
+        },
+        "rentDetailsRequest": {
+            "alias": "rentDetailsRequest",
+            "method": "GET",
+            "url": "http://qalab.pl.tivixlabs.com/details/*",
+            "expectedStatusCode": 200
+        },
+        "rentGETRequest": {
+            "alias": "rentGETRequest",
+            "method": "GET",
+            "url": "http://qalab.pl.tivixlabs.com/rent/*",
+            "expectedStatusCode": 200
+        },
+        "rentPOSTRequest": {
+            "alias": "rentPOSTRequest",
+            "method": "POST",
+            "url": "http://qalab.pl.tivixlabs.com/rent/*",
+            "expectedStatusCode": 200
+        }
+    }
+}

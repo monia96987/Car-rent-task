@@ -1,0 +1,23 @@
+{
+    "carTestData": {
+        "model": {
+            "id": "model",
+            "value": "Mazda",
+            "htmlType": "input",
+            "label": "Model",
+            "searchResultColumnEq": 1
+        },
+        "pickup": {
+            "id": "pickup",
+            "value": "2022-03-02",
+            "htmlType": "calendar",
+            "label": "Pick-up date"
+        },
+        "dropoff": {
+            "id": "dropoff",
+            "value": "2022-04-05",
+            "htmlType": "calendar",
+            "label": "Drop-off date"
+        }
+    }
+}

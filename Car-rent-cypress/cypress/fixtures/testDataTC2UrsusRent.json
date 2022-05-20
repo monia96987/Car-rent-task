@@ -1,0 +1,47 @@
+{
+    "carTestData": {
+        "model": {
+            "id": "model",
+            "value": "Ursus C360",
+            "htmlType": "input",
+            "label": "Model",
+            "searchResultColumnEq": 1,
+            "licencePlate": ""
+        },
+        "pickup": {
+            "id": "pickup",
+            "value": "2022-05-09",
+            "htmlType": "calendar",
+            "label": "Pick-up date"
+        },
+        "dropoff": {
+            "id": "dropoff",
+            "value": "2150-10-06",
+            "htmlType": "calendar",
+            "label": "Drop-off date"
+        }
+    },
+
+    "userTestData": {
+        "name": {
+            "id": "name",
+            "value": "Monika",
+            "htmlType": "input"
+        },
+        "last name": {
+            "id": "last_name",
+            "value": "Udzielak",
+            "htmlType": "input"
+        },
+        "card number": {
+            "id": "card_number",
+            "value": "12345678",
+            "htmlType": "input"
+        },
+        "email": {
+            "id": "email",
+            "value": "mail@mail.com",
+            "htmlType": "input"
+        }
+    }
+}

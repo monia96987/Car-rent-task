@@ -1,0 +1,31 @@
+
+{
+    "htmlElements": {
+        "searchButtonInMainPage": {
+            "htmlType": "button",
+            "name": "Search"
+        },
+        "rentButtonInRow": {
+            "htmlType": "a",
+            "name": "Rent",
+            "inRow": true
+        },
+        "rentButtonInDetails": {
+            "htmlType": "a",
+            "name": "Rent!"
+        },
+        "finalRentButton": {
+            "htmlType": "button",
+            "name": "Rent"
+        },
+        "searchResults": {
+            "id": "search-results"
+        },
+        "labelParentInForm": {
+            "class": ".form-group"
+        },
+        "detailsHeader": {
+            "class": ".card-header"
+        }
+    }
+}

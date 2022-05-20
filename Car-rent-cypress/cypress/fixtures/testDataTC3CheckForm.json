@@ -1,0 +1,34 @@
+{
+    "carTestData": {
+        "country": {
+            "id": "country",
+            "value": "Poland",
+            "htmlType": "dropdown",
+            "label": "Country"
+        },
+        "city": {
+            "id": "city",
+            "value": "Wroclaw",
+            "htmlType": "dropdown",
+            "label": "City"
+        },
+        "model": {
+            "id": "model",
+            "value": "Toyota Aygo",
+            "htmlType": "input",
+            "label": "Model"
+        },
+        "pickup": {
+            "id": "pickup",
+            "value": "2024-10-20",
+            "htmlType": "calendar",
+            "label": "Pick-up date"
+        },
+        "dropoff": {
+            "id": "dropoff",
+            "value": "2025-04-21",
+            "htmlType": "calendar",
+            "label": "Drop-off date"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "baseUrl": "http://qalab.pl.tivixlabs.com/",
+
+    "viewportWidth": 1920,
+    "viewportHeight": 1080,
+
+    "testFiles": [
+        "TC1checkSearchingForSpecificCarModel.spec.js",
+        "TC2checkIfUserCanRentAnUrsus.spec.js",
+        "TC3checkSearchForm.spec.js"
+    ],
+
+    "chromeWebSecurity": false
+}
